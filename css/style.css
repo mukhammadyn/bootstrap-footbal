@@ -11,6 +11,10 @@
   color: #40a03e !important;
 }
 
+.nav-link {
+  transition: opacity 0.3s ease;
+}
+
 .nav-link:hover {
   opacity: 0.7;
 }
