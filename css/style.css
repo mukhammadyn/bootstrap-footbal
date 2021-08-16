@@ -2,6 +2,10 @@
   background-color: #f9f9f9;
 }
 
+.site-logo-link {
+  transition: opacity 0.3s ease;
+}
+
 .site-logo-link:hover {
   opacity: 0.7;
 }
@@ -9,10 +13,6 @@
 .nav-link {
   font-size: 18px;
   color: #40a03e !important;
-}
-
-.nav-link {
-  transition: opacity 0.5s ease;
 }
 
 .nav-link:hover {
